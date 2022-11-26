@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a first year Systems Design Engineering student from the University of Waterloo, excited about all things tech. I love playing around with new technologies and you can see some of my projects on my GitHub, or learn more about me on my website - https://ayushshah.life
+I'm a second year Systems Design Engineering student from the University of Waterloo, excited about all things tech. I love playing around with new technologies and you can see some of my projects on my GitHub, or learn more about me on my website - https://ayushshah.life
