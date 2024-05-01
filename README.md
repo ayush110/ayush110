@@ -1,7 +1,7 @@
 ## Hi there! I'm Ayush 👋 
 - 🏫 I'm a 3rd year Systems Design Engineering student at the University of Waterloo
 - ⚡ Besides creating cool projects 💻, I love playing volleyball 🏐 and guitar 🎸
-- 🌱 Passionate about backend, AI/ML, and embedded development 
+- 🌱 Passionate about backend, distributed systems, AI/ML, and robotics
 - ⬇️ Feel free to check out my personal website! [ayushshah.co](https://www.ayushshah.co/)
 
 ### Connect with me 😄
